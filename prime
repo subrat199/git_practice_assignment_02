@@ -1,0 +1,13 @@
+function prime(num)
+{
+for(let i=0;i<=num;i++)
+{
+if(i%num==1)
+{
+return false;
+}
+return true;
+}
+}
+let y=prime(13);
+console.log(num)
