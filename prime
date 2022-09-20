@@ -26,3 +26,6 @@ else
 {
 	console.log("Not a Prime no")
 }
+
+
+
